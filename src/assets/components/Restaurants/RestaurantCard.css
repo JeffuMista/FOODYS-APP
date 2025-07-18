@@ -49,3 +49,6 @@
     font-weight: bold;
     text-align: center;
 }
+.view-menu:hover {
+    background-color: #e65c00;
+}
